@@ -1,0 +1,20 @@
+{
+  "name": "ReplitReactjsProject",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.3",
+    "@vitejs/plugin-react-refresh": "^1.1.0",
+    "neo4j-driver": "^4.3.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-force-graph-3d": "^1.21.8",
+    "three-spritetext": "^1.6.2",
+    "vite": "^2.2.1"
+  }
+}
